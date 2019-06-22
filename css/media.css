@@ -1,0 +1,59 @@
+/* Smart Phones & Tablets */
+
+@media (max-width: 767px) {
+    
+    .navbar-inverse .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px
+    }
+    
+    .subscribe .form-control {
+        margin: 20px auto;
+        width: 370px !important
+    }
+    
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse {
+        max-height: none;
+    }
+
+    .testimonials .carousel-indicators li {
+        width: 70px;
+        height: 70px
+    }
+    
+    .testimonials .carousel-indicators li.active {
+        width: 73px;
+        height: 73PX;
+        border: 2px solid #E41B17
+    }
+    
+}
+
+/* Small Screen */
+
+@media (min-width: 768px) and (max-width: 990px) {
+    
+}
+
+/* Medium Screen */
+
+@media (min-width: 991px) and (max-width: 1199px) {
+    
+}
+
+/* Large Screen */
+
+@media (min-width: 1200px) {
+    
+    .features .feat h4 {
+        font-size: 22px;
+        font-weight: 600;
+        color: #666
+    }
+    
+    .features .feat p {
+        font-size: 18px
+    }
+}
+

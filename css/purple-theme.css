@@ -1,0 +1,27 @@
+/**** default color ****/
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu .divider,
+.option-box .gear-check,
+.carousel-indicators .active {
+    background-color: #b208d1
+}
+
+
+.option-box  .color-option,
+.testimonials .carousel-indicators li.active,
+.carousel-indicators .active {
+    border: 3px solid #b208d1
+}
+
+.dropdown-menu {
+    border-top: 2px solid #b208d1
+}
+
+.main-color {
+    color: #b208d1
+}
